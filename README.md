@@ -17,15 +17,13 @@ NoteMaker is the simple text editor that was made to integrate into any system. 
 
 1. Clone the repository
 2. Set Up Your Environment
-3. Install the required dependencies
-4. Run the code
+3. Run the code
 
 You can copy this to do all steps avoid:
 
 ```bash
 git clone https://github.com/HenryLoM/Note-Maker_TextEditor.git
 cd MainDirectory_Note-Maker
-pip install -r requirements.txt
 python main.ru
 ```
 
